@@ -4,6 +4,7 @@ A modern and secure authentication system with dashboard access, form validation
 
 SecureAuth is a fully responsive and interactive authentication system built using HTML, CSS, and vanilla JavaScript. It includes features such as user registration, login, protected dashboard access, and client-side validation with persistent session management using `localStorage`.
 
+Deployed link : https://vercel.com/rohan1188s-projects/log-in-page/9pcUNG2NVZir4tTjaQAt5CnxNwXA
 ---
 
 ## 📄 Overview
